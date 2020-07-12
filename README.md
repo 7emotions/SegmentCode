@@ -2,6 +2,7 @@
 ---
 ## What SegmentCode is
 > SegmentCode is a Windows desktop application that can generate hex code according to the virtual LEDs which you  light and put out.
+> 
 ![image.png](https://i.loli.net/2020/07/12/bPIzqJj4oYdcyeR.png)
 
 ## Frameworks
@@ -26,3 +27,5 @@
 4. Click Generate Button ,then you can get the hex code above the Generate Button.
  
 ![image.png](https://i.loli.net/2020/07/12/2h1VNQUcRo8rX3P.png)
+
+## 
