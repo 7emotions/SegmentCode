@@ -28,4 +28,6 @@
  
 ![image.png](https://i.loli.net/2020/07/12/2h1VNQUcRo8rX3P.png)
 
-## 
+## License
+
+[Apache License 2.0](https://github.com/7emotions/SegmentCode/blob/master/LICENSE)
