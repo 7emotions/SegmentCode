@@ -21,8 +21,8 @@
 
 3. chosse anode or cathode.
 
-> the difference between anode and cathode:
-![image.png](![image.png](https://i.loli.net/2020/07/12/6Wy48hnYNjQxsDZ.png))
+> the difference between anode and cathode:<br/>
+![image.png](https://i.loli.net/2020/07/12/6Wy48hnYNjQxsDZ.png)
 
 4. Click Generate Button ,then you can get the hex code above the Generate Button.
  
