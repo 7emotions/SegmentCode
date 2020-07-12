@@ -21,7 +21,7 @@ namespace LEDSegmentCode
             {
                 this.led1.SetOde(Ode.anode);
             }
-            this.date.Text = "值:" + this.led1.getHexCode();
+            this.date.Text = "HexCode: " + this.led1.getHexCode();
         }
     }
 }

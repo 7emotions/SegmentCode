@@ -41,7 +41,7 @@
             this.calc.Name = "calc";
             this.calc.Size = new System.Drawing.Size(75, 23);
             this.calc.TabIndex = 1;
-            this.calc.Text = "计算";
+            this.calc.Text = "Generate";
             this.calc.UseVisualStyleBackColor = true;
             this.calc.Click += new System.EventHandler(this.calc_Click);
             // 
@@ -50,19 +50,19 @@
             this.date.AutoSize = true;
             this.date.Location = new System.Drawing.Point(267, 147);
             this.date.Name = "date";
-            this.date.Size = new System.Drawing.Size(23, 12);
+            this.date.Size = new System.Drawing.Size(53, 12);
             this.date.TabIndex = 2;
-            this.date.Text = "值:";
+            this.date.Text = "HexCode:";
             // 
             // anode
             // 
             this.anode.AutoSize = true;
             this.anode.Location = new System.Drawing.Point(256, 70);
             this.anode.Name = "anode";
-            this.anode.Size = new System.Drawing.Size(47, 16);
+            this.anode.Size = new System.Drawing.Size(53, 16);
             this.anode.TabIndex = 3;
             this.anode.TabStop = true;
-            this.anode.Text = "共阳";
+            this.anode.Text = "Anode";
             this.anode.UseVisualStyleBackColor = true;
             // 
             // cathode
@@ -70,10 +70,10 @@
             this.cathode.AutoSize = true;
             this.cathode.Location = new System.Drawing.Point(256, 92);
             this.cathode.Name = "cathode";
-            this.cathode.Size = new System.Drawing.Size(47, 16);
+            this.cathode.Size = new System.Drawing.Size(65, 16);
             this.cathode.TabIndex = 3;
             this.cathode.TabStop = true;
-            this.cathode.Text = "共阴";
+            this.cathode.Text = "Cathode";
             this.cathode.UseVisualStyleBackColor = true;
             // 
             // led1
