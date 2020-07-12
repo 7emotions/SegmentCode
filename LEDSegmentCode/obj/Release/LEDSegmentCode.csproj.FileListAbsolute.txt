@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\bin\Release\LEDSegmentCode.exe.config
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\bin\Release\LEDSegmentCode.exe
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\bin\Release\LEDSegmentCode.pdb
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.Form1.resources
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.LED.resources
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.exe
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.pdb
