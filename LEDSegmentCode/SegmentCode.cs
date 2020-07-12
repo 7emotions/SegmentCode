@@ -30,7 +30,8 @@ namespace LEDSegmentCode
             {
                 date = ~date; 
             }
-            return Convert.ToString(date,16);
+            String s = Convert.ToString(date, 16);
+            return s.Substring(s.Length - 2, 2);
         }
     }
     public enum Ode
