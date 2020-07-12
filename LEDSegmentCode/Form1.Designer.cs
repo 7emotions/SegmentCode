@@ -48,7 +48,7 @@
             // date
             // 
             this.date.AutoSize = true;
-            this.date.Location = new System.Drawing.Point(267, 147);
+            this.date.Location = new System.Drawing.Point(216, 152);
             this.date.Name = "date";
             this.date.Size = new System.Drawing.Size(53, 12);
             this.date.TabIndex = 2;
