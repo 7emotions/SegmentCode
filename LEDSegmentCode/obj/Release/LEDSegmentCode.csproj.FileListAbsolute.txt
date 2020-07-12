@@ -8,3 +8,4 @@ C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LE
 C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.exe
 C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.pdb
+C:\Users\Administrator\source\repos\LEDSegmentCode\LEDSegmentCode\obj\Release\LEDSegmentCode.csprojAssemblyReference.cache
